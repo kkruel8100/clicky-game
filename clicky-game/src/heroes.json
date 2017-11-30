@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Black Widow",
+    "image":
+      "https://vignette.wikia.nocookie.net/marveldatabase/images/b/b4/Natalia_Romanova_%28Earth-1610%29_Ultimate_Spider-Man_Super_Special_Vol_1_1.png/revision/latest/scale-to-width-down/254?cb=20110627015438"
+  },
+  {
+    "id": 2,
+    "name": "Storm",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/a/ad/Storm_Unleashed_by_windriderx23.jpg/revision/latest/scale-to-width-down/350?cb=20170123222608"
+  },
+  {
+    "id": 3,
+    "name": "Jean Grey",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/9/9a/IMG_2156.jpg/revision/latest?cb=20170402194122"
+  },
+  {
+    "id": 4,
+    "name": "Magik",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/0/0d/Mystic_Arcana_Magik.jpg/revision/latest?cb=20091212181302"
+  },
+  {
+    "id": 5,
+    "name": "Polaris",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/1/17/Lorna_Dane_%28Earth-616%29_060.jpg/revision/latest/scale-to-width-down/222?cb=20100211150729"
+  },
+  {
+    "id": 6,
+    "name": "Emma Frost",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/a/a9/Emma_Frost_041.jpg/revision/latest?cb=20091024180104"
+  },
+  {
+    "id": 7,
+    "name": "Blink",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/9/90/1172281-blink_01.jpg/revision/latest?cb=20100711034908"
+  },
+  {
+    "id": 8,
+    "name": "Hope Summers",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/0/00/Hope.jpg/revision/latest?cb=20100709173942"
+  },
+  {
+    "id": 9,
+    "name": "Mortis",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/3/38/Mortis_001.jpg/revision/latest?cb=20091122221933"
+  },
+  {
+    "id": 10,
+    "name": "Sage",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/7/70/Sage.jpg/revision/latest?cb=20081110092640"
+  },
+  {
+    "id": 11,
+    "name": "Selene",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/f/ff/Black_Queen_001.jpg/revision/latest?cb=20091021232043"
+  },
+  {
+    "id": 12,
+    "name": "Dazzler",
+    "image":
+      "https://vignette.wikia.nocookie.net/x-men/images/3/33/Alison_Blaire.jpg/revision/latest?cb=20091102163959"
+  }
+]

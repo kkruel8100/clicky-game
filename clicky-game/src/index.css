@@ -3,3 +3,9 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.container {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
