@@ -45,6 +45,7 @@ class App extends Component {
           score={this.state.score}
           topScore={this.state.topScore}
         />
+
         <div className="App">
           <header className="App-header">
             <h1 className="App-title">Clicky Game!</h1>
