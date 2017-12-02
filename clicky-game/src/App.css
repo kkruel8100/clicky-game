@@ -1,20 +1,24 @@
 .App {
   text-align: center;
-  padding-top: 115px;
+  clear: both;
 }
 
 .App-header {
   background-color: #2b5271;
-  height: 250px;
-  padding: 20px 20px 10px;
+  padding: 16vw 1vw 2.5vw;
   color: white;
   background-image: url('./electricity.jpg');
 }
 
-.App-title {
-  font-size: 4em;
+.App-header h1 {
+  font-size: 4.5vw;
 }
 
-.App-intro {
-  font-size: large;
+.App-header h1 {
+  margin-top: 0;
+  font-size: 4.5vw;
+}
+
+.App-header h2 {
+  font-size: 3.4vw;
 }

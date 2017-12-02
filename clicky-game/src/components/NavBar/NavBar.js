@@ -7,8 +7,10 @@ const NavBar = props => (
       <li>
         <a href="/">Clicky Game</a>
       </li>
-      <li>Click an image to begin!</li>
-      <li>Score: </li>
+      <li>{props.subtitle}</li>
+      <li>
+        Score: {props.score} | Top Score: {props.topScore}
+      </li>
     </ul>
   </div>
 );
